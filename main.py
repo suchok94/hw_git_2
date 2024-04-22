@@ -1,5 +1,7 @@
+import solution
 print('Hello')
 a = int(input("Введите число А: "))
-b = int(input("Введите число B: "))
+b = int(input("Введите число А: "))
 
-print(f'A + B = {a+b}')
+print('A+B= ', solution.summa(a,b))
+
